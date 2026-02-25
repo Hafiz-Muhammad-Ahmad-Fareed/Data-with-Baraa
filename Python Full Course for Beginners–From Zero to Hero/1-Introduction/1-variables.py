@@ -1,3 +1,5 @@
+# memory_location -> variable_value(data_type) -> variable_name
+
 name = "Ali"
 print("Hello", name)
 
