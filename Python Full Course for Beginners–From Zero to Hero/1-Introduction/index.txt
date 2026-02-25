@@ -17,5 +17,5 @@ How Python Works?
 => source_code(.py) -> Interpreter [Compiler -> Byte Code + Libraries -> VM -> Machine Code] -> Output
 
 Hello World Program:
-Python is a high level programming language and it is case-sensitive
+-> Python is a high level programming language and it is case-sensitive
 => print("Hello World!")

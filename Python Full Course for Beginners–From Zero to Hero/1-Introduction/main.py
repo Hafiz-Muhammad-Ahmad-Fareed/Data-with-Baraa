@@ -11,10 +11,10 @@ This is a multi-line comment
 # Output
 print("Hello World!")
 print('Hello World!')
-print("Hello \'World\'!")
-print('Hello \"World\"!')
 print("Hello \"World\"!")
 print('Hello \'World\'!')
+print("Hello \'World\'!")
+print('Hello \"World\"!')
 print("Path: C:\\users\\desktop")
 print("Hello\nWorld")
 print("Hello\tWorld")
