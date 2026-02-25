@@ -1,2 +1,20 @@
 Python Mindmap:
 https://www.mindmeister.com/app/map/3916039125?t=ou8ZR0zayk
+
+What is Programming Language?
+=> A Language which computers can understand.
+
+What is a Program?
+=> A set of instructions written in a programming language to solve a particular problem.
+
+Types of Languages:
+=> Natural Language (Urdu, Hindi, English)
+=> High-Level Language (Python, JavaScript)
+=> Low-Level Language (C, C++)
+=> Machine Language (Binary)
+
+How Python Works?
+=> source_code(.py) -> Interpreter [Compiler -> Byte Code + Libraries -> VM -> Machine Code] -> Output
+
+Hello World Program:
+print("Hello World!")
