@@ -1,5 +1,5 @@
 Python Mindmap:
-https://www.mindmeister.com/app/map/3916039125?t=ou8ZR0zayk
+=> https://www.mindmeister.com/app/map/3916039125?t=ou8ZR0zayk
 
 What is Programming Language?
 => A Language which computers can understand.
@@ -17,4 +17,5 @@ How Python Works?
 => source_code(.py) -> Interpreter [Compiler -> Byte Code + Libraries -> VM -> Machine Code] -> Output
 
 Hello World Program:
-print("Hello World!")
+Python is a high level programming language and it is case-sensitive
+=> print("Hello World!")
